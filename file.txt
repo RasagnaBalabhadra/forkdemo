@@ -1,2 +1,3 @@
 This is a forkdemo
 line added in local
+line added in remote
