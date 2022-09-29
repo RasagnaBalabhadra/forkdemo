@@ -7,3 +7,6 @@ the new line is added by snehitha in local repository
 updated happen in local
 
 updated in pull request
+
+
+is pull request nessasary for collaborators
