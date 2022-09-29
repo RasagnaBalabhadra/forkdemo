@@ -1,3 +1,7 @@
 This is a forkdemo
 line added in local
 line added in remote
+
+
+the new line is added by snehitha in local repository
+updated happen in local
